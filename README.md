@@ -19,16 +19,13 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/git.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/bash.svg" alt="bash" width="40" height="40"/> 
-  
-  
+   
 
 </p>
 
-<p >
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnmcgough&layout=compact&hide=html" alt="shawnmcgough" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shawnmcgough&show_icons=true" alt="shawnmcgough" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawnmcgough&show_icons=true" alt="shawnmcgough" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnmcgough" alt="shawnmcgough" /> </p>
 
