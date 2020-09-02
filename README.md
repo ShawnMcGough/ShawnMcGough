@@ -5,20 +5,20 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Azure-DevOps.svg" alt="azure devops" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/azure-offical.svg" alt="azure" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/csharp-1.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/dotnet-core.svg" alt="dotnet core" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Azure-DevOps.svg" alt="azure devops" title="azure devops" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/azure-offical.svg" title="azure" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/csharp-1.svg" title="csharp" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/dotnet-core.svg" title="dotnet core" width="40" height="40"/> 
   
   
-  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/vscode.svg" alt="vs code" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/vscode.svg" title="vs code" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" title="visual studio" width="40" height="40"/> 
     
     
-  <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/github-1.svg" alt="bash" width="40" height="40"/>   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/git.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/bash.svg" alt="bash" width="40" height="40"/> 
+  <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/github-1.svg" title="github" width="40" height="40"/>   
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/git.svg" title="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/bash.svg" title="bash" width="40" height="40"/> 
    
 
 </p>
